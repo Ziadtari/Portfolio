@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1749559775955,
+  "timestamp": 1749768342798,
   "index": "https://ziadtari.github.io/Portfolio/index.html",
   "assetGroups": [
     {
@@ -58,7 +58,7 @@
         "https://ziadtari.github.io/Portfolio/SFMono-Semibold.849266397229adad.woff",
         "https://ziadtari.github.io/Portfolio/SFMono-SemiboldItalic.0ef5133ede504d56.woff2",
         "https://ziadtari.github.io/Portfolio/SFMono-SemiboldItalic.33cb8d6968ae9130.woff",
-        "https://ziadtari.github.io/Portfolio/assets/cv/MUFFEEZ_CV.pdf",
+        "https://ziadtari.github.io/Portfolio/assets/cv/Ziad_Bin_Tariq_Final_CV.pdf",
         "https://ziadtari.github.io/Portfolio/assets/fonts/Calibre/Calibre-Light.ttf",
         "https://ziadtari.github.io/Portfolio/assets/fonts/Calibre/Calibre-Light.woff",
         "https://ziadtari.github.io/Portfolio/assets/fonts/Calibre/Calibre-Light.woff2",
@@ -172,7 +172,7 @@
     "https://ziadtari.github.io/Portfolio/SFMono-Semibold.849266397229adad.woff": "999e816498b39e99896d09cb18614e5bb700fa8e",
     "https://ziadtari.github.io/Portfolio/SFMono-SemiboldItalic.0ef5133ede504d56.woff2": "3621c6894388833626fd4cf132087a3f46a54a21",
     "https://ziadtari.github.io/Portfolio/SFMono-SemiboldItalic.33cb8d6968ae9130.woff": "4bb2ddc7da8064698328e123bd3ec673f674a90d",
-    "https://ziadtari.github.io/Portfolio/assets/cv/MUFFEEZ_CV.pdf": "5512bb86835ed5d232d5cb0a0cf0cbad742884e1",
+    "https://ziadtari.github.io/Portfolio/assets/cv/Ziad_Bin_Tariq_Final_CV.pdf": "11d50806affe3f80def06ee1eddda847fb93802b",
     "https://ziadtari.github.io/Portfolio/assets/fonts/Calibre/Calibre-Light.ttf": "8eccfc3783b04d13dec5887a15c3e00fd28bef7c",
     "https://ziadtari.github.io/Portfolio/assets/fonts/Calibre/Calibre-Light.woff": "e3fbab74fa86b97c78ad1b1965b327fe5b2a1adb",
     "https://ziadtari.github.io/Portfolio/assets/fonts/Calibre/Calibre-Light.woff2": "70021b39a260c5f53d2ec5ba30f37163bbe0ef14",
@@ -217,7 +217,7 @@
     "https://ziadtari.github.io/Portfolio/assets/fonts/SFMono/SFMono-SemiboldItalic.woff": "4bb2ddc7da8064698328e123bd3ec673f674a90d",
     "https://ziadtari.github.io/Portfolio/assets/fonts/SFMono/SFMono-SemiboldItalic.woff2": "3621c6894388833626fd4cf132087a3f46a54a21",
     "https://ziadtari.github.io/Portfolio/assets/fonts/SFMono/stylesheet.css": "9d845bf2b6a9e53e38bfc797758fbe38c2b99470",
-    "https://ziadtari.github.io/Portfolio/assets/i18n/en.json": "3c088475fa61cc20629faea02dbb791605e9d933",
+    "https://ziadtari.github.io/Portfolio/assets/i18n/en.json": "87a4015f7fb7997cb5a5ea1c85b8005f71cc97de",
     "https://ziadtari.github.io/Portfolio/assets/images/bbm/image1.png": "ae66702d9eee1d0ea9b2a8bffa79210b40c2f2e5",
     "https://ziadtari.github.io/Portfolio/assets/images/bbm/image2.png": "ab61045be1e3c586ba7a898830ea2450ffd1b8f0",
     "https://ziadtari.github.io/Portfolio/assets/images/bbm/image3.png": "4da68ada37256f7f31fee5bc10f0d690f2ba0b74",
